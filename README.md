@@ -1,5 +1,5 @@
 # osa_detection
-ICDM 2022 - CLNet: A Wake-Time Aware Obstructive Sleep Apnea Classification Model based on Single-lead ECG Data
+ICDM 2022 - A Deep Learning Based Obstructive Sleep Apnea Severity Estimation Scheme with Accurate Labeling Techniques Using Single-lead ECG Data
 
 ## Dataset
 [PhysioNet Apnea-ECG Database 1.0.0](https://physionet.org/content/apnea-ecg/1.0.0/)
