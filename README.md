@@ -9,7 +9,7 @@ The trained model is provided as `CLNet.h5`.
 
 'train_data', 'val_data', and 'test_data' are required to reproduce our results.
 
-You must download the Apnea-ECG Database from the link or save the data_set directory. 
+You must download the Apnea-ECG Database from the link. 
 
 Create the pre_processing_data directory and then execute `preprocessing.py`.
 
