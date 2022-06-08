@@ -1,4 +1,4 @@
-# osa_detection
+# osa_severity_classification
 ICDM 2022 - A Deep Learning Based Obstructive Sleep Apnea Severity Estimation Scheme with Accurate Labeling Techniques Using Single-lead ECG Data
 
 ## Dataset
