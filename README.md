@@ -13,11 +13,9 @@ You must download the Apnea-ECG Database from the link.
 
 Create the pre_processing_data directory and then execute `preprocessing.py`.
 
-'train_data', 'val_data', and 'test_data' are extracted by executing `data_merge.py`.
-
 Results are obtained by running `CLNet.py`.
 
-*Note: Depending on the version of Keras and Tensorflow, the specification of the GPU, and the random seed value in `data_merge.py`, there may be some discrepancies with the actual result.*
+*Note: Depending on the version of Keras and Tensorflow, the specification of the GPU, there may be some discrepancies with the actual result.*
 
 ## Requirements
 Python==3.7.9 Keras==2.5.0 Tensorflow==2.5.0
