@@ -1,4 +1,4 @@
-# osa_severity_classification
+# [Submission] osa_severity_classification (IEEE Access 2022)
 A Deep Learning Based Obstructive Sleep Apnea Severity Classification Scheme with Accurate Labeling Techniques Using Single-lead ECG Data
 
 ## Dataset
