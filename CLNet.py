@@ -60,7 +60,7 @@ def create_model(input_shape, weight=1e-3):
                kernel_initializer="he_normal", kernel_regularizer=l2(1e-3), bias_regularizer=l2(weight))(x)
     x = MaxPooling1D(pool_size=3)(x)
 
-    x = Dropout(0.8)(x)
+    x = Dropout(0.7)(x)
 
     x = LSTM(128)(x)
     x = Dense(32, activation="relu")(x)
