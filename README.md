@@ -1,5 +1,5 @@
-# [Submission] osa_severity_classification (IEEE Access 2022)
-A Deep Learning Based Obstructive Sleep Apnea Severity Classification Scheme with Accurate Labeling Techniques Using Single-lead ECG Data
+# [Submission] osa_severity_classification (IEEE Access 2023)
+A Deep Neural Network Based Wake-After-Sleep-Onset Time Aware Sleep Apnea Severity Estimation Scheme Using Single-lead ECG Data
 
 ## Dataset
 [PhysioNet Apnea-ECG Database 1.0.0](https://physionet.org/content/apnea-ecg/1.0.0/)
